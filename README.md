@@ -30,3 +30,8 @@
 如果你感觉有收获，欢迎给我打赏,以激励我更多输出优质开源内容!
 
 ![](./assets/readme/shoukuan.png)
+
+### | 领取红包
+
+每天可以都可以领取一次哟!!
+![](./assets/readme/zhifubao.png)
