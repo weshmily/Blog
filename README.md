@@ -3,7 +3,7 @@
 
 ### 版权声明：本文为博主原创文章，未经博主允许不得转载。
 - [官方网站(资源网站)](https://weareshmily.top)
-- [CSDN(全部文章)](https://weareshmily.top)
+- [CSDN(全部文章)](https://blog.csdn.net/qq_27118895)
 - [掘金博客(全部文章)](https://juejin.im/user/5bf50726e51d450cb4186756)
 - [segmentFault博客(全部文章)](https://segmentfault.com/u/weshmilyqd)
 
