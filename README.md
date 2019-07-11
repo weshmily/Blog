@@ -6,7 +6,7 @@
 - [GitHub(全部文章)](https://github.com/weshmily/Blog)
 - [CSDN(全部文章)](https://blog.csdn.net/qq_27118895)
 - [掘金博客(全部文章)](https://juejin.im/user/5bf50726e51d450cb4186756)
-- [segmentFault博客(全部文章)](https://segmentfault.com/u/weshmilyqd)
+- [segmentFault博客(正在同步文章)](https://segmentfault.com/u/weshmilyqd)
 
 
  欢迎关注公众号：**weshmily前端**，你的成长我们一起见证！	
