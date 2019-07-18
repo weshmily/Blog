@@ -35,6 +35,8 @@
 ### |  [★开源项目](https://github.com/weshmily/Blog/issues?q=is%3Aopen+is%3Aissue+project%3Aweshmily%2FBlog%2F2)
 #### 1.[MockServe接口模拟工具](https://github.com/weshmily/mockserve)
 #### 2.[cesium地球三维展示平台](https://github.com/weshmily/earth-3d-cloud)
+#### 2.[CeisumLabApkServe--为CeisumLab工具下载地图,影像数据的.pak文件架设地图服务](https://github.com/weshmily/CeisumLabApkServe)
+
 
 
 ### |  打赏
